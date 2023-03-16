@@ -13,7 +13,7 @@ Create a Notion database with the following:
 
 1. Follow the instructions on this [page](https://developers.notion.com/docs/create-a-notion-integration) to create a new Notion integration
 2. Create a Google Maps API key with these [instructions](https://developers.google.com/maps/documentation/javascript/get-api-key)
-3. Once you get to step 4 of the Notion instructions, create a `.env.` file in the root of this repo with the following:
+3. Ensure the following is included in your `.env` file which should be created in the root of this repo:
 
 ```
 NOTION_API_KEY =
