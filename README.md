@@ -22,10 +22,10 @@ GOOGLE_MAPS_API_KEY =
 STARTING_ADDRESS = ""
 ```
 
-4. Run the integration with the following command:
+## Usage
+
+Run the integration with the following command and check your Notion database to confirm it's been updated.
 
 ```
 npm start
 ```
-
-5. Check your Notion database and confirm it's been updated!
